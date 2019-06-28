@@ -4748,7 +4748,6 @@
 3openmouth/1852open.jpg 3
 1pouting/2575pouting.jpg 1
 2smile/1732smile.jpg 2
-3openmouth/.txt 3
 2smile/3910smile.jpg 2
 0none/3003none.jpg 0
 3openmouth/565open.jpg 3
