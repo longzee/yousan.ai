@@ -95,7 +95,7 @@ RUN APT_INSTALL="apt-get install -y --no-install-recommends" && \
     cd ~/nccl && \
     make -j"$(nproc)" install && \
 
-    $GIT_CLONE https://github.com/longzee/Caffe_Long /opt/caffe && \
+    $GIT_CLONE --branch py2.7 https://github.com/longzee/Caffe_Long /opt/caffe && \
     cd /opt/caffe && \
     mkdir build && cd build && \
     cmake .. && \
